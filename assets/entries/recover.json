@@ -1,0 +1,91 @@
+[{
+        "title": "test it",
+        "description": "asdfasdf",
+        "date": "10§th§ Jul 2021, 13:14",
+        "ID": 17
+    },
+    {
+        "title": "FIX the big bug in this program",
+        "description": "myDiary Updates",
+        "date": "10§th§ Jul 2021, 10:18",
+        "ID": 14
+    },
+    {
+        "title": "my Diary updates",
+        "description": "When searching it shouldn't search on the raw entries, it should document query selector all of the elements to form an array and filter that to keep the numbers otherwise other elements will be deleting other elements.",
+        "date": "10§th§ Jul 2021, 10:20",
+        "ID": 14
+    },
+    {
+        "title": "myDiary updates",
+        "description": "design the required jquery effects",
+        "date": "10§th§ Jul 2021, 13:27",
+        "ID": 16
+    },
+    {
+        "title": "Tasks tonight",
+        "description": "- Add media queries on the login pages of iris try and copy them from the change password page○Ç- Redesign Grade Monkey to be like myDiary and make the api server based fetching everything from the database○Ç- Watch brad / Kyle make a login system in node and see all their approaches○Ç- Watch the video on php and finish functions and one topic after it and record the time. Start at 1:40:00.○Ç- Look at the job applications Yesterday and see if i completed any.",
+        "date": "10§th§ Jul 2021, 21:19",
+        "ID": 17
+    },
+    {
+        "title": "First thing in the morning!",
+        "description": "checkout the guy in jamii forums and try and send him a text message of the link of iris also ask for his email or other social networks.",
+        "date": "9§th§ Jul 2021, 23:05",
+        "ID": 6
+    },
+    {
+        "title": "Programming (Iris) (task)",
+        "description": "Add media queries on the login pages for Iris.",
+        "date": "9§th§ Jul 2021, 23:03",
+        "ID": 5
+    },
+    {
+        "title": "Coding",
+        "description": "checkout Cobiro as a web designing tool.",
+        "date": "9§th§ Jul 2021, 22:29",
+        "ID": 2
+    },
+    {
+        "title": "Nyimbo za Kesho",
+        "description": "KUABUDU○Ç1. Waweza waweza mambo yote - Straton - B11○Ç2. Maserafi Makerubi - Esther - B00○Ç3. Ndivo ulivo Bwana, Wewe ni mfinyanzi - Esther - B00○Ç4. Yesu Tawala - Ma Mchungaji○Ç5. Ni wewe wakuabudiwa ni wewe - Moses○Ç6. Hii ni haja ya moyo wangu - Rejina○Ç7. Sema na Moyo yangu - Flora - B39○Ç○ÇSIFA○Ç1. Pokea sifa, bwana wa mabwana - Rejina○Ç2. Kama wewe, mungu usiyeshindwa - Esther○Ç4. Utukuzwe yaweh - Straton○Ç○ÇTENZI○Ç1. Kwa Kalvari - 89 - B00 - trans (-4)○Ç2. Nataka nimjue Yesu - 92 - B39",
+        "date": "10§th§ Jul 2021, 18:24",
+        "ID": 13
+    },
+    {
+        "title": "Jobs today",
+        "description": "1. Clean the table - Baraka○Ç2. Usafi sebuleni - Esther○Ç3. Kuku - Baraka and Moses○Ç4. Vyombo - Esther and Jane○Ç5. Fagia Mbele - Moses○Ç6. Fua Nguo - Moses and Esther",
+        "date": "13§th§ Jul 2021, 12:39",
+        "ID": 21
+    },
+    {
+        "title": "myDiary Updates",
+        "description": "add search results number",
+        "date": "10§th§ Jul 2021, 13:25",
+        "ID": 12
+    },
+    {
+        "title": "Beem",
+        "description": "Check on updates regarding the competition",
+        "date": "12§th§ Jul 2021, 12:42",
+        "ID": 17
+    },
+    {
+        "title": "Fonts",
+        "description": "test the fonts",
+        "date": "12§th§ Jul 2021, 13:22",
+        "ID": 18
+    },
+    {
+        "title": "Extra Job",
+        "description": "Feed tiger○Ç",
+        "date": "13§th§ Jul 2021, 12:47",
+        "ID": 18
+    },
+    {
+        "title": "First thing in the morning",
+        "description": "Start thinking of questions that I could put on the subject choices AI  and make it as accurate as possible",
+        "date": "11§th§ Jul 2021, 2:06",
+        "ID": 12
+    }
+]
