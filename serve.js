@@ -5,7 +5,7 @@ const fs = require('fs');
 //create server
 
 const server = http.createServer((req, res) => {
-    let filepath = path.join(__dirname, '../', req.url === '/' ? 'index.html' : req.url)
+    let filepath = path.join(__dirname, 'src', req.url === '/' ? 'index.html' : req.url)
         //extension of the file
     let extname = path.extname(filepath);
     //initial content type

@@ -22,7 +22,7 @@ lfetch.onreadystatechange = () => {
             splitDate[1] = `<sup>${splitDate[1]}</sup>`;
             let joinedDate = splitDate.join('');
             canvas.innerHTML += `<div class="entry">
-                <div class="decl"><span>Dear Diary...</span><img src="./assets/img/close_black_24dp.svg" class="delete-entry" alt="delete-entry" data-type="${element['ID']}"></div>
+                <div class="decl"><span>Dear Diary...</span><img src="../assets/img/close_black_24dp.svg" class="delete-entry" alt="delete-entry" data-type="${element['ID']}"></div>
                 <div class="entry-title">${element.title}</div>
                 <div class="content">${joined}</div>
                 <div class="date">${joinedDate}</div>
@@ -48,7 +48,7 @@ lfetch.onreadystatechange = () => {
                 splitDate[1] = `<sup>${splitDate[1]}</sup>`;
                 let joinedDate = splitDate.join('');
                 canvas.innerHTML += `<div class="entry">
-                    <div class="decl"><span>Dear Diary...</span><img src="./assets/img/close_black_24dp.svg" class="delete-entry" alt="delete-entry" data-type="${element['ID']}"></div>
+                    <div class="decl"><span>Dear Diary...</span><img src="../assets/img/close_black_24dp.svg" class="delete-entry" alt="delete-entry" data-type="${element['ID']}"></div>
                     <div class="entry-title">${element.title}</div>
                     <div class="content">${joined}</div>
                     <div class="date">${joinedDate}</div>
@@ -85,7 +85,7 @@ lfetch.onreadystatechange = () => {
                 splitDate[1] = `<sup>${splitDate[1]}</sup>`;
                 let joinedDate = splitDate.join('');
                 canvas.innerHTML += `<div class="entry">
-                        <div class="decl"><span>Dear Diary...</span><img src="./assets/img/close_black_24dp.svg" class="delete-entry" alt="delete-entry" data-type="${element['ID']}"></div>
+                        <div class="decl"><span>Dear Diary...</span><img src="../assets/img/close_black_24dp.svg" class="delete-entry" alt="delete-entry" data-type="${element['ID']}"></div>
                         <div class="entry-title">${element.title}</div>
                         <div class="content">${joined}</div>
                         <div class="date">${joinedDate}</div>
